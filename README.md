@@ -14,6 +14,7 @@ each chess piece as a practice in code reusability
 JavaFX Event Handling Pattern as well as the Observer Pattern 
 
 - Added an extra feature to the GUI beyond the project requirements (eliminated pieces are displayed on the left and right sides of the chess board)
+
 Starting chess board:
 ![StartingChessBoard](https://user-images.githubusercontent.com/47334973/179610748-ca000eca-3907-4e46-913e-be207c08e5a7.PNG)
 Eliminated chess pieces displayed on the side:
