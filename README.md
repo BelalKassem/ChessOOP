@@ -17,5 +17,6 @@ JavaFX Event Handling Pattern as well as the Observer Pattern
 
 Starting chess board:
 ![StartingChessBoard](https://user-images.githubusercontent.com/47334973/179610748-ca000eca-3907-4e46-913e-be207c08e5a7.PNG)
+
 Eliminated chess pieces displayed on the side:
 ![EliminatedChessPieces](https://user-images.githubusercontent.com/47334973/179610767-f92c0236-f8dc-421b-bf65-f0459789820d.PNG)
